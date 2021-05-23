@@ -1,2 +1,2 @@
 # Codeforces solutions
-U may find your solutions here
+U may find your Codeforces solutions here
